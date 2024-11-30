@@ -1,0 +1,46 @@
+body {
+/* siempre se finaliza con punto y coma ; */
+
+    background: rgb(23,19,101);
+    background: linear-gradient(90deg, rgba(23,19,101,1) 0%, rgba(1,138,178,1) 29%, rgba(133,66,119,1) 77%, rgba(166,13,50,1) 100%);
+    /* código copiado de goolge fonts */
+    font-family: "Carrois Gothic SC", sans-serif;
+    /* tamaño de la letra */
+    font-size: 22px;
+    color: blanchedalmond;
+
+}
+/*tamaño de las imágenes */
+.perfil {
+    width: 1200px;
+    text-align: center;
+    
+
+}
+
+.linea {
+    width: 800px;
+    height: 600px;
+}
+
+.tops {
+    width: 400px;
+    height: 400px;
+}
+
+.gal {
+    width: 400px;
+    height: 400px;
+    border: solid;
+ 
+}
+.menu {
+    background: rgb(2,1,19);
+    background: linear-gradient(90deg, rgba(2,1,19,0.8463760504201681) 0%, rgba(8,20,116,1) 50%, rgba(0,0,0,1) 94%);
+    color: #c4b8e4;
+}
+
+.fin {
+    text-align: right;
+    color: #521212;
+}
